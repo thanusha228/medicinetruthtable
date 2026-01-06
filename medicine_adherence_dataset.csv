@@ -1,0 +1,1201 @@
+Medicine_Name,Condition,Age,Gender,Side_Effect_Severity,Price_INR,Dosage_mg,Effectiveness_Score,Chronic_Use
+Ibuprofen,Fever,22,Female,1,82,250,6.7,1
+Paracetamol,Fever,37,Female,5,123,100,6.7,0
+Cetirizine,Fever,25,Female,2,292,500,6.0,1
+Paracetamol,Fever,60,Female,2,25,250,4.8,0
+Paracetamol,Diabetes,29,Male,4,166,500,8.9,1
+Insulin,Fever,18,Male,5,203,250,8.3,0
+Cetirizine,Diabetes,37,Male,4,47,500,6.5,0
+Cetirizine,Fever,45,Female,4,569,250,7.0,0
+Cetirizine,Pain,60,Male,2,138,250,5.1,0
+Paracetamol,Allergy,54,Male,4,312,250,6.7,1
+Ibuprofen,Diabetes,64,Male,2,390,250,7.5,0
+Cetirizine,Fever,54,Male,1,263,850,6.6,1
+Vitamin D,Pain,29,Male,5,599,500,9.0,0
+Paracetamol,Allergy,54,Female,4,237,500,7.1,1
+Insulin,Diabetes,66,Male,2,196,850,5.9,0
+Ibuprofen,Allergy,66,Female,3,318,250,7.9,0
+Vitamin D,Pain,61,Female,4,77,250,4.9,1
+Vitamin D,Diabetes,45,Female,1,288,500,5.9,0
+Insulin,Allergy,64,Female,1,327,850,5.7,0
+Ibuprofen,Fever,32,Female,3,589,250,6.2,1
+Paracetamol,Diabetes,23,Male,2,307,250,7.9,0
+Metformin,Allergy,61,Male,4,124,250,6.4,1
+Ibuprofen,Pain,37,Male,2,247,100,8.0,0
+Insulin,Pain,67,Female,1,266,850,6.9,1
+Vitamin D,Diabetes,31,Male,2,513,250,5.7,1
+Paracetamol,Allergy,19,Male,1,102,100,8.0,1
+Ibuprofen,Diabetes,26,Female,2,205,850,5.2,1
+Metformin,Diabetes,54,Female,3,271,250,5.1,0
+Metformin,Allergy,37,Female,5,374,500,6.5,0
+Cetirizine,Allergy,43,Female,3,229,100,5.3,1
+Cetirizine,Fever,46,Male,3,466,100,4.0,0
+Insulin,Allergy,18,Female,5,479,250,7.2,0
+Ibuprofen,Pain,52,Female,5,491,250,6.6,0
+Ibuprofen,Diabetes,23,Male,4,389,100,6.2,1
+Vitamin D,Diabetes,54,Male,4,511,500,8.8,0
+Vitamin D,Pain,22,Female,3,156,500,6.9,0
+Vitamin D,Allergy,50,Male,3,386,850,8.3,1
+Cetirizine,Pain,66,Female,1,203,250,4.7,0
+Ibuprofen,Pain,68,Female,1,306,500,6.8,1
+Ibuprofen,Fever,31,Male,4,491,850,8.3,1
+Metformin,Pain,29,Male,4,394,500,6.9,1
+Cetirizine,Diabetes,59,Female,1,556,250,7.6,0
+Paracetamol,Pain,37,Female,1,530,850,5.9,0
+Cetirizine,Diabetes,67,Female,2,598,850,4.5,1
+Paracetamol,Diabetes,41,Male,2,269,850,6.3,1
+Metformin,Diabetes,60,Female,1,529,500,6.0,1
+Insulin,Allergy,51,Female,2,92,250,8.3,1
+Ibuprofen,Fever,42,Female,5,301,850,5.2,1
+Metformin,Diabetes,67,Female,4,379,100,8.8,1
+Ibuprofen,Diabetes,46,Female,4,29,250,8.8,0
+Vitamin D,Allergy,56,Male,1,230,100,5.2,1
+Insulin,Diabetes,48,Female,3,171,100,5.7,1
+Insulin,Pain,64,Female,1,24,850,8.5,1
+Metformin,Pain,60,Female,2,214,850,8.8,0
+Insulin,Fever,67,Female,3,302,500,6.2,0
+Paracetamol,Diabetes,40,Male,2,483,500,5.6,0
+Insulin,Allergy,61,Male,5,132,500,6.6,0
+Ibuprofen,Pain,55,Male,2,290,250,7.4,1
+Ibuprofen,Allergy,37,Female,5,182,500,5.4,0
+Ibuprofen,Allergy,40,Female,5,479,100,7.7,1
+Ibuprofen,Pain,62,Male,2,124,500,4.3,1
+Paracetamol,Allergy,69,Male,2,575,850,4.2,1
+Cetirizine,Pain,33,Male,5,301,500,5.9,1
+Vitamin D,Allergy,67,Female,3,181,250,5.8,1
+Metformin,Pain,59,Female,5,370,250,5.6,1
+Ibuprofen,Diabetes,25,Male,4,453,100,6.5,0
+Insulin,Fever,67,Male,5,159,250,5.6,0
+Ibuprofen,Pain,38,Male,3,490,500,5.0,0
+Insulin,Pain,18,Female,4,151,850,5.5,0
+Vitamin D,Fever,25,Female,1,106,250,8.9,0
+Vitamin D,Pain,46,Female,1,202,100,6.1,1
+Vitamin D,Pain,49,Male,3,387,500,6.2,0
+Insulin,Allergy,55,Male,5,148,100,6.9,0
+Ibuprofen,Fever,22,Female,2,265,250,8.9,0
+Vitamin D,Diabetes,64,Male,3,597,250,5.2,1
+Paracetamol,Pain,39,Female,4,397,100,7.4,1
+Insulin,Fever,64,Male,4,168,500,7.6,1
+Insulin,Allergy,51,Male,1,452,250,7.0,0
+Ibuprofen,Diabetes,18,Male,4,488,850,4.4,0
+Insulin,Fever,43,Male,3,465,250,7.4,0
+Insulin,Diabetes,60,Female,4,500,500,4.3,0
+Vitamin D,Diabetes,27,Male,3,313,250,7.0,0
+Ibuprofen,Diabetes,47,Female,2,162,100,7.7,1
+Vitamin D,Pain,67,Female,1,269,250,5.1,0
+Vitamin D,Pain,35,Female,4,321,250,8.2,1
+Ibuprofen,Allergy,34,Male,3,44,500,4.2,0
+Metformin,Allergy,43,Female,5,89,100,8.2,1
+Vitamin D,Fever,25,Female,1,131,500,6.3,1
+Paracetamol,Allergy,64,Female,2,383,250,5.1,1
+Paracetamol,Diabetes,57,Male,3,322,850,4.7,1
+Insulin,Diabetes,66,Male,2,490,250,8.8,0
+Paracetamol,Pain,29,Female,2,110,500,4.4,0
+Insulin,Diabetes,44,Male,4,549,850,5.0,0
+Metformin,Fever,25,Female,4,211,500,5.7,1
+Ibuprofen,Diabetes,42,Female,3,571,500,7.1,0
+Ibuprofen,Diabetes,63,Male,5,261,100,6.7,0
+Ibuprofen,Fever,21,Female,3,157,850,4.6,0
+Paracetamol,Allergy,50,Male,5,364,250,5.4,0
+Metformin,Allergy,18,Male,2,199,500,5.2,1
+Paracetamol,Fever,36,Female,1,522,250,5.1,1
+Paracetamol,Pain,48,Male,3,222,100,6.1,0
+Metformin,Diabetes,33,Male,3,592,100,7.5,0
+Metformin,Fever,31,Female,5,211,850,5.1,0
+Metformin,Diabetes,65,Female,2,24,100,5.8,1
+Metformin,Pain,22,Male,2,256,100,6.0,1
+Ibuprofen,Diabetes,58,Male,5,330,250,8.9,1
+Cetirizine,Fever,43,Female,2,568,100,8.8,0
+Cetirizine,Diabetes,45,Male,4,75,100,8.0,1
+Metformin,Allergy,19,Male,1,462,500,5.2,1
+Cetirizine,Pain,67,Male,3,256,100,4.3,1
+Cetirizine,Pain,23,Male,1,216,500,5.6,1
+Metformin,Pain,26,Male,3,590,100,5.3,1
+Cetirizine,Fever,50,Male,4,533,100,6.5,0
+Paracetamol,Pain,58,Male,2,468,850,7.9,0
+Insulin,Allergy,42,Female,5,379,850,8.3,0
+Insulin,Fever,65,Female,4,49,500,8.2,0
+Metformin,Allergy,30,Female,1,127,100,5.8,1
+Ibuprofen,Diabetes,26,Female,5,464,250,7.4,0
+Metformin,Diabetes,30,Female,2,457,850,5.6,0
+Ibuprofen,Diabetes,48,Male,4,476,250,4.3,0
+Insulin,Diabetes,58,Male,5,514,850,7.5,1
+Metformin,Allergy,28,Male,4,266,850,4.0,0
+Vitamin D,Fever,21,Male,4,562,100,6.0,1
+Paracetamol,Fever,51,Female,2,583,850,5.6,1
+Cetirizine,Pain,55,Male,3,458,250,7.5,1
+Ibuprofen,Allergy,63,Male,5,297,850,7.8,0
+Vitamin D,Diabetes,21,Female,2,571,500,5.5,1
+Cetirizine,Allergy,55,Male,4,130,100,8.1,0
+Cetirizine,Pain,36,Male,2,404,100,5.5,0
+Metformin,Pain,23,Female,3,210,500,6.2,0
+Cetirizine,Allergy,51,Male,5,509,500,7.6,1
+Paracetamol,Allergy,35,Male,3,445,500,7.5,1
+Vitamin D,Allergy,30,Male,1,424,850,8.9,0
+Cetirizine,Fever,58,Male,5,354,100,5.1,1
+Metformin,Diabetes,40,Male,3,228,500,7.3,1
+Paracetamol,Allergy,36,Female,4,41,850,7.0,1
+Insulin,Allergy,62,Female,5,227,500,8.6,0
+Vitamin D,Allergy,28,Female,5,27,250,4.8,1
+Cetirizine,Pain,18,Female,2,548,250,7.8,1
+Metformin,Pain,41,Female,4,185,100,6.8,0
+Insulin,Fever,24,Female,1,515,850,5.4,1
+Insulin,Diabetes,42,Male,3,448,250,6.4,0
+Ibuprofen,Fever,38,Female,2,182,250,5.7,1
+Paracetamol,Diabetes,32,Female,3,385,850,6.9,1
+Cetirizine,Pain,18,Male,1,545,500,8.4,1
+Metformin,Pain,29,Male,1,258,850,6.8,1
+Ibuprofen,Pain,24,Female,5,91,500,7.2,1
+Paracetamol,Fever,32,Male,1,464,250,6.6,1
+Ibuprofen,Allergy,38,Female,3,528,250,4.3,0
+Vitamin D,Allergy,36,Male,4,288,250,5.2,1
+Paracetamol,Pain,46,Female,4,434,100,6.5,1
+Paracetamol,Allergy,42,Male,5,264,100,5.6,1
+Cetirizine,Allergy,50,Male,3,79,100,4.9,0
+Paracetamol,Fever,66,Female,3,25,850,6.5,0
+Ibuprofen,Diabetes,49,Female,1,589,250,5.6,0
+Paracetamol,Pain,66,Female,3,426,250,5.3,1
+Cetirizine,Pain,52,Female,2,236,850,6.3,1
+Cetirizine,Fever,61,Female,1,45,100,4.7,0
+Vitamin D,Fever,55,Male,2,24,850,8.6,0
+Ibuprofen,Allergy,43,Female,5,551,100,8.3,0
+Insulin,Pain,28,Female,4,409,250,7.5,1
+Insulin,Diabetes,52,Male,5,590,500,4.5,0
+Paracetamol,Fever,25,Male,4,467,100,7.9,1
+Vitamin D,Diabetes,63,Female,5,165,250,8.0,1
+Metformin,Diabetes,31,Male,3,407,250,7.8,1
+Paracetamol,Pain,27,Male,2,268,500,4.6,0
+Vitamin D,Pain,19,Female,4,545,250,7.2,1
+Ibuprofen,Fever,63,Male,1,481,250,8.2,0
+Ibuprofen,Pain,26,Male,2,32,100,6.9,0
+Ibuprofen,Pain,20,Female,1,403,100,7.2,0
+Ibuprofen,Pain,38,Female,2,575,500,6.3,0
+Ibuprofen,Diabetes,43,Male,2,418,500,6.6,1
+Vitamin D,Fever,25,Male,5,38,250,4.2,1
+Vitamin D,Allergy,65,Female,4,594,100,7.2,1
+Cetirizine,Diabetes,19,Male,4,510,500,4.4,1
+Insulin,Pain,23,Male,2,438,500,6.2,0
+Ibuprofen,Diabetes,45,Male,3,356,850,5.5,0
+Metformin,Pain,46,Female,3,438,500,6.7,0
+Vitamin D,Pain,43,Male,1,141,250,4.7,0
+Metformin,Diabetes,42,Male,1,451,100,7.5,1
+Metformin,Fever,29,Female,5,63,500,8.0,0
+Metformin,Pain,22,Male,2,336,850,4.8,1
+Cetirizine,Fever,51,Male,1,400,100,4.5,0
+Vitamin D,Allergy,65,Female,1,164,500,4.7,0
+Metformin,Pain,54,Female,2,346,850,8.4,0
+Ibuprofen,Fever,32,Female,5,382,500,6.6,0
+Paracetamol,Fever,61,Female,1,69,100,6.3,1
+Metformin,Allergy,53,Male,5,84,100,4.5,1
+Cetirizine,Fever,32,Male,4,374,100,7.2,1
+Vitamin D,Fever,60,Female,5,183,250,8.3,1
+Cetirizine,Allergy,65,Female,3,160,500,8.1,0
+Metformin,Pain,40,Male,3,147,250,7.1,0
+Vitamin D,Fever,23,Female,5,417,100,4.4,1
+Paracetamol,Fever,63,Male,3,482,850,4.6,1
+Metformin,Fever,67,Female,4,206,500,4.2,0
+Cetirizine,Diabetes,61,Male,2,209,250,5.3,0
+Insulin,Allergy,60,Female,3,407,500,4.7,1
+Ibuprofen,Diabetes,62,Female,3,448,850,5.3,1
+Cetirizine,Allergy,38,Male,5,303,250,5.9,1
+Vitamin D,Pain,40,Female,4,256,100,8.7,0
+Metformin,Pain,60,Male,2,213,250,7.1,1
+Ibuprofen,Fever,33,Male,5,306,500,8.2,1
+Metformin,Allergy,64,Male,5,155,500,7.6,1
+Vitamin D,Pain,32,Male,4,190,500,4.6,1
+Metformin,Allergy,42,Male,2,178,500,7.7,1
+Insulin,Pain,53,Female,4,220,100,5.4,0
+Ibuprofen,Diabetes,28,Female,2,506,250,7.2,1
+Ibuprofen,Pain,68,Male,4,576,100,5.7,0
+Vitamin D,Diabetes,32,Female,5,523,100,9.0,1
+Insulin,Pain,21,Male,5,390,100,5.3,1
+Cetirizine,Fever,38,Female,1,122,500,5.4,1
+Metformin,Diabetes,30,Female,3,144,500,8.7,0
+Paracetamol,Pain,39,Female,4,332,500,4.1,0
+Metformin,Fever,36,Female,1,477,250,7.5,0
+Metformin,Diabetes,51,Male,3,249,850,7.6,1
+Cetirizine,Fever,31,Male,4,216,500,8.2,1
+Metformin,Allergy,21,Female,2,442,250,8.9,0
+Insulin,Allergy,65,Female,3,591,500,8.9,0
+Insulin,Diabetes,69,Male,5,190,500,4.3,1
+Ibuprofen,Pain,63,Female,1,401,100,8.1,0
+Vitamin D,Diabetes,44,Male,3,192,100,7.2,1
+Paracetamol,Fever,46,Male,3,472,100,7.2,0
+Metformin,Pain,64,Male,5,369,250,4.6,0
+Metformin,Allergy,45,Female,4,513,850,7.3,0
+Cetirizine,Pain,52,Male,2,23,850,8.9,1
+Vitamin D,Allergy,25,Female,5,112,250,8.6,1
+Insulin,Pain,33,Male,2,25,500,6.2,0
+Paracetamol,Pain,59,Female,4,307,250,4.2,1
+Ibuprofen,Pain,53,Female,3,165,500,5.8,1
+Insulin,Fever,47,Female,2,443,250,8.1,1
+Vitamin D,Fever,35,Male,1,476,250,7.5,1
+Ibuprofen,Diabetes,19,Male,1,221,250,6.3,0
+Cetirizine,Diabetes,66,Female,5,231,850,4.3,1
+Cetirizine,Allergy,30,Female,4,25,100,6.1,1
+Metformin,Fever,21,Female,5,395,250,6.3,0
+Vitamin D,Allergy,43,Male,5,466,850,8.6,1
+Paracetamol,Diabetes,42,Male,5,125,100,7.2,1
+Ibuprofen,Allergy,47,Male,1,420,100,5.6,1
+Insulin,Diabetes,28,Male,1,115,250,6.6,0
+Vitamin D,Fever,24,Female,5,407,500,4.3,0
+Vitamin D,Pain,48,Female,1,471,500,8.9,1
+Cetirizine,Fever,61,Male,4,435,500,5.8,1
+Metformin,Allergy,27,Male,5,523,250,6.4,0
+Metformin,Allergy,56,Female,1,473,500,5.8,0
+Ibuprofen,Fever,30,Male,2,310,850,7.4,0
+Cetirizine,Fever,48,Male,5,553,850,7.3,1
+Vitamin D,Diabetes,24,Male,5,212,850,7.6,1
+Paracetamol,Allergy,66,Male,4,169,850,5.3,0
+Cetirizine,Allergy,59,Male,3,534,100,5.6,1
+Ibuprofen,Fever,59,Male,3,412,850,4.6,1
+Ibuprofen,Pain,53,Female,4,335,500,7.3,1
+Cetirizine,Allergy,37,Male,4,95,250,4.2,1
+Ibuprofen,Pain,21,Male,4,289,500,7.0,1
+Cetirizine,Fever,24,Female,3,244,850,8.3,1
+Insulin,Fever,18,Female,4,549,100,8.5,1
+Cetirizine,Diabetes,61,Female,1,132,850,6.2,0
+Cetirizine,Allergy,62,Male,5,270,250,6.3,0
+Ibuprofen,Pain,59,Female,5,252,500,4.4,0
+Ibuprofen,Diabetes,64,Male,2,102,250,7.4,0
+Metformin,Allergy,30,Male,2,144,250,8.1,0
+Metformin,Diabetes,39,Male,5,194,250,5.2,0
+Insulin,Fever,38,Female,1,88,500,6.1,0
+Metformin,Allergy,39,Female,3,66,850,8.2,0
+Cetirizine,Diabetes,45,Female,3,275,250,8.4,0
+Ibuprofen,Diabetes,26,Female,1,49,500,5.2,1
+Metformin,Pain,43,Female,3,300,100,6.8,1
+Metformin,Diabetes,26,Male,4,256,500,5.0,0
+Insulin,Allergy,32,Male,5,267,100,4.5,1
+Vitamin D,Allergy,27,Male,5,387,500,8.6,1
+Insulin,Pain,41,Male,1,514,850,8.1,0
+Cetirizine,Allergy,59,Female,3,44,250,7.8,0
+Ibuprofen,Fever,25,Female,2,509,850,4.2,0
+Insulin,Allergy,41,Male,2,513,500,8.2,1
+Metformin,Allergy,33,Female,3,333,250,6.2,1
+Ibuprofen,Diabetes,66,Female,2,394,100,5.7,0
+Ibuprofen,Diabetes,43,Male,1,44,500,6.7,1
+Metformin,Allergy,44,Male,1,353,250,4.5,1
+Insulin,Pain,54,Female,3,374,100,7.8,1
+Metformin,Diabetes,21,Female,2,135,100,6.9,0
+Vitamin D,Pain,67,Male,1,67,850,4.9,1
+Ibuprofen,Allergy,41,Male,1,118,500,4.9,1
+Paracetamol,Allergy,36,Male,4,478,100,4.9,1
+Paracetamol,Fever,53,Female,4,542,250,4.3,1
+Cetirizine,Diabetes,56,Male,1,424,100,6.9,1
+Metformin,Allergy,27,Male,3,233,100,8.2,1
+Metformin,Fever,42,Female,5,522,850,4.1,1
+Cetirizine,Diabetes,35,Female,5,467,850,4.2,0
+Cetirizine,Allergy,36,Female,1,595,250,6.9,0
+Cetirizine,Allergy,53,Female,1,277,850,8.1,1
+Ibuprofen,Diabetes,27,Female,1,140,100,5.6,0
+Vitamin D,Diabetes,50,Male,3,73,100,5.7,1
+Metformin,Diabetes,67,Male,4,350,850,7.0,1
+Ibuprofen,Allergy,22,Female,1,260,100,5.4,1
+Cetirizine,Allergy,64,Female,1,549,100,4.1,0
+Metformin,Fever,66,Female,2,502,250,7.7,1
+Ibuprofen,Pain,52,Female,3,206,850,7.1,1
+Vitamin D,Diabetes,61,Female,1,281,100,6.9,0
+Ibuprofen,Allergy,51,Male,2,383,850,7.7,0
+Vitamin D,Allergy,50,Male,5,510,250,7.4,1
+Cetirizine,Diabetes,38,Male,1,450,850,5.0,0
+Vitamin D,Pain,34,Male,1,258,100,5.8,0
+Metformin,Diabetes,39,Female,2,323,850,4.6,1
+Cetirizine,Pain,65,Male,3,317,100,4.6,1
+Metformin,Allergy,54,Female,1,95,100,7.4,1
+Paracetamol,Pain,32,Female,5,352,100,8.3,0
+Insulin,Fever,52,Female,1,493,250,8.8,0
+Vitamin D,Allergy,45,Male,5,302,850,7.1,0
+Insulin,Fever,24,Female,4,91,250,4.9,1
+Insulin,Diabetes,49,Male,4,282,850,4.5,0
+Vitamin D,Diabetes,28,Male,5,594,250,8.1,0
+Cetirizine,Diabetes,27,Female,3,31,500,6.9,1
+Paracetamol,Pain,26,Female,1,160,100,7.1,1
+Metformin,Allergy,31,Female,1,574,100,7.9,1
+Ibuprofen,Diabetes,30,Male,4,36,250,7.5,0
+Metformin,Diabetes,42,Female,5,82,500,8.2,1
+Ibuprofen,Allergy,19,Male,1,272,100,4.3,0
+Metformin,Diabetes,52,Female,1,484,850,7.7,0
+Vitamin D,Fever,24,Female,3,395,250,8.3,1
+Paracetamol,Allergy,38,Male,2,539,100,5.4,1
+Ibuprofen,Allergy,35,Male,4,109,100,7.2,1
+Cetirizine,Allergy,20,Male,4,194,250,5.6,1
+Metformin,Fever,59,Male,2,95,250,8.8,1
+Metformin,Allergy,56,Male,1,419,850,4.2,0
+Ibuprofen,Fever,58,Male,3,90,850,6.9,0
+Cetirizine,Allergy,66,Female,3,199,100,4.8,0
+Cetirizine,Pain,28,Female,4,143,100,7.6,1
+Vitamin D,Diabetes,56,Male,3,400,250,4.9,0
+Vitamin D,Pain,41,Female,2,312,100,5.2,1
+Vitamin D,Diabetes,63,Male,1,214,100,6.5,1
+Vitamin D,Fever,36,Female,2,247,250,8.6,0
+Vitamin D,Pain,21,Female,5,450,100,5.1,0
+Vitamin D,Allergy,43,Male,4,455,100,4.7,1
+Paracetamol,Diabetes,55,Male,3,480,500,7.8,0
+Cetirizine,Diabetes,59,Male,5,40,850,6.5,1
+Vitamin D,Pain,49,Female,3,83,250,8.6,0
+Cetirizine,Fever,56,Male,1,184,500,4.7,0
+Cetirizine,Pain,62,Female,1,46,850,7.2,0
+Insulin,Fever,63,Male,1,330,850,5.2,0
+Paracetamol,Fever,53,Female,3,304,850,4.8,0
+Vitamin D,Diabetes,57,Female,5,300,500,7.4,1
+Metformin,Pain,54,Male,1,183,500,7.0,0
+Ibuprofen,Pain,50,Female,5,243,850,7.8,0
+Metformin,Fever,53,Female,3,165,100,5.5,0
+Paracetamol,Pain,20,Male,5,49,100,6.2,1
+Ibuprofen,Allergy,26,Female,3,64,500,6.0,1
+Paracetamol,Allergy,25,Male,3,490,500,8.9,1
+Cetirizine,Pain,50,Male,4,53,500,5.5,1
+Ibuprofen,Pain,23,Male,3,446,850,5.5,1
+Cetirizine,Fever,58,Male,3,240,100,5.8,0
+Metformin,Allergy,56,Female,2,553,500,6.8,0
+Metformin,Allergy,21,Female,1,386,500,5.3,0
+Ibuprofen,Diabetes,30,Female,4,569,250,8.6,1
+Ibuprofen,Fever,66,Male,4,135,850,5.3,1
+Vitamin D,Diabetes,19,Female,4,258,250,8.5,0
+Paracetamol,Allergy,22,Female,2,354,100,4.5,1
+Vitamin D,Fever,61,Male,3,460,250,7.3,1
+Paracetamol,Pain,44,Male,1,167,250,8.5,1
+Vitamin D,Fever,49,Female,5,28,250,4.8,0
+Cetirizine,Pain,38,Male,3,307,850,8.8,0
+Ibuprofen,Pain,25,Male,2,407,100,6.3,1
+Metformin,Fever,55,Male,3,69,250,8.7,1
+Paracetamol,Pain,25,Male,3,536,850,7.4,1
+Paracetamol,Diabetes,67,Female,2,297,100,5.5,1
+Metformin,Allergy,20,Male,4,319,500,4.9,0
+Vitamin D,Pain,61,Male,4,154,250,5.5,1
+Paracetamol,Diabetes,20,Male,1,599,100,4.5,0
+Cetirizine,Pain,39,Male,1,166,250,4.7,0
+Ibuprofen,Allergy,23,Male,4,509,500,4.5,0
+Metformin,Diabetes,19,Male,5,497,100,6.1,1
+Ibuprofen,Allergy,40,Male,3,178,850,8.0,0
+Paracetamol,Allergy,61,Male,5,403,100,4.7,0
+Paracetamol,Diabetes,19,Female,3,182,850,4.7,1
+Metformin,Diabetes,55,Male,4,460,100,7.2,1
+Cetirizine,Diabetes,34,Female,1,208,850,5.0,1
+Insulin,Fever,52,Male,1,434,500,4.5,0
+Metformin,Diabetes,51,Male,5,358,500,4.8,1
+Insulin,Diabetes,40,Male,1,200,500,8.6,0
+Vitamin D,Diabetes,47,Male,4,307,100,8.1,0
+Insulin,Diabetes,69,Female,5,206,500,5.8,1
+Cetirizine,Pain,25,Male,3,157,250,7.3,0
+Vitamin D,Fever,39,Male,1,149,500,6.7,0
+Insulin,Allergy,61,Female,2,213,850,7.4,0
+Vitamin D,Diabetes,53,Female,1,335,850,7.4,0
+Insulin,Pain,22,Male,3,163,850,7.1,1
+Cetirizine,Pain,30,Female,5,35,100,5.3,0
+Insulin,Pain,46,Female,3,321,250,4.2,1
+Insulin,Allergy,48,Female,2,442,500,6.3,0
+Insulin,Diabetes,64,Male,4,264,250,8.5,0
+Metformin,Fever,33,Male,1,126,250,6.8,1
+Metformin,Fever,59,Male,5,107,850,8.2,0
+Metformin,Pain,47,Female,4,148,850,9.0,0
+Cetirizine,Allergy,33,Male,3,360,850,4.8,0
+Vitamin D,Allergy,29,Female,5,23,100,7.5,0
+Paracetamol,Allergy,34,Male,4,346,250,7.4,0
+Insulin,Fever,33,Male,5,429,250,8.9,0
+Insulin,Pain,29,Female,2,325,100,8.9,1
+Cetirizine,Diabetes,25,Male,2,244,100,7.4,1
+Insulin,Fever,37,Female,1,367,100,5.2,1
+Metformin,Pain,20,Female,1,340,250,8.0,0
+Paracetamol,Pain,33,Male,2,578,250,4.5,0
+Ibuprofen,Diabetes,47,Female,5,200,850,7.9,0
+Insulin,Diabetes,62,Male,2,405,850,8.6,1
+Metformin,Diabetes,40,Male,1,127,250,5.9,0
+Ibuprofen,Allergy,45,Female,2,550,850,7.2,1
+Paracetamol,Diabetes,68,Male,2,429,100,6.2,0
+Ibuprofen,Pain,57,Female,5,315,500,6.2,0
+Metformin,Diabetes,22,Male,4,190,850,5.6,0
+Vitamin D,Pain,37,Male,1,350,250,7.8,1
+Vitamin D,Fever,57,Male,5,512,850,8.7,0
+Ibuprofen,Allergy,61,Male,2,214,850,8.7,1
+Cetirizine,Fever,18,Male,2,31,850,4.9,0
+Ibuprofen,Fever,47,Female,4,214,500,8.4,0
+Insulin,Pain,38,Female,1,509,100,7.7,1
+Insulin,Fever,37,Female,1,201,250,5.3,0
+Vitamin D,Pain,23,Female,3,335,500,4.3,0
+Cetirizine,Diabetes,39,Female,1,49,250,5.3,0
+Metformin,Diabetes,35,Female,4,115,250,8.6,0
+Insulin,Pain,25,Male,3,400,250,7.2,1
+Vitamin D,Diabetes,56,Male,3,463,500,7.6,1
+Paracetamol,Allergy,49,Female,2,317,100,5.3,0
+Vitamin D,Fever,50,Female,2,380,250,7.6,0
+Insulin,Allergy,33,Male,1,393,100,4.1,1
+Insulin,Fever,29,Male,3,573,100,5.9,0
+Vitamin D,Diabetes,55,Male,2,322,850,7.1,1
+Metformin,Allergy,69,Female,4,440,500,4.7,0
+Ibuprofen,Diabetes,51,Female,2,265,500,8.1,1
+Insulin,Fever,31,Female,2,256,850,5.2,1
+Vitamin D,Pain,53,Male,3,553,850,7.3,1
+Vitamin D,Pain,50,Male,3,204,100,6.0,1
+Cetirizine,Allergy,40,Female,5,487,250,7.0,0
+Ibuprofen,Diabetes,67,Female,4,382,500,4.5,0
+Paracetamol,Diabetes,62,Male,3,302,250,4.1,1
+Metformin,Allergy,19,Male,1,572,250,8.5,1
+Paracetamol,Pain,58,Male,4,355,850,5.3,1
+Ibuprofen,Fever,38,Male,4,181,250,8.1,1
+Ibuprofen,Allergy,19,Female,3,179,100,9.0,0
+Ibuprofen,Fever,44,Male,4,493,850,5.1,1
+Paracetamol,Pain,26,Male,3,341,250,5.3,1
+Ibuprofen,Diabetes,18,Male,2,31,850,7.3,1
+Vitamin D,Pain,28,Female,5,443,100,8.8,1
+Paracetamol,Allergy,20,Female,2,92,100,8.6,1
+Ibuprofen,Diabetes,69,Male,3,220,250,6.5,1
+Vitamin D,Allergy,40,Male,3,541,850,8.0,1
+Cetirizine,Allergy,43,Male,2,524,250,4.7,0
+Ibuprofen,Pain,21,Female,1,58,250,8.9,1
+Paracetamol,Allergy,35,Female,1,79,850,8.8,1
+Insulin,Pain,23,Female,1,597,250,4.8,1
+Ibuprofen,Diabetes,52,Male,3,340,100,5.5,0
+Insulin,Pain,39,Female,4,454,850,4.5,0
+Vitamin D,Diabetes,60,Male,3,427,850,5.4,0
+Cetirizine,Pain,32,Male,4,405,850,8.1,1
+Metformin,Fever,39,Male,2,588,850,5.9,1
+Cetirizine,Fever,54,Female,5,97,250,4.4,1
+Ibuprofen,Allergy,69,Male,4,213,250,5.7,0
+Insulin,Pain,59,Female,1,304,100,8.9,1
+Insulin,Pain,29,Female,3,546,500,7.1,0
+Paracetamol,Diabetes,64,Male,2,543,500,6.1,0
+Insulin,Allergy,66,Male,1,175,100,4.8,0
+Paracetamol,Pain,59,Female,2,359,500,8.9,0
+Vitamin D,Allergy,55,Male,5,144,100,8.1,0
+Metformin,Fever,35,Female,3,299,250,5.4,1
+Ibuprofen,Pain,62,Male,3,147,850,4.4,1
+Paracetamol,Pain,52,Female,5,333,850,4.3,0
+Metformin,Allergy,47,Female,3,351,250,4.6,1
+Insulin,Pain,41,Female,4,169,850,6.9,1
+Insulin,Allergy,59,Female,2,473,850,8.6,0
+Metformin,Pain,47,Male,1,55,500,6.5,0
+Insulin,Diabetes,31,Male,5,439,250,8.2,1
+Vitamin D,Allergy,23,Female,4,41,500,6.2,1
+Vitamin D,Pain,20,Female,1,225,500,7.5,1
+Metformin,Fever,33,Male,1,375,850,7.7,1
+Paracetamol,Pain,24,Male,5,459,850,4.9,0
+Paracetamol,Fever,69,Male,4,115,250,5.8,1
+Metformin,Fever,31,Male,1,183,850,7.2,0
+Paracetamol,Diabetes,26,Male,1,167,850,4.4,0
+Paracetamol,Allergy,32,Male,4,549,250,5.8,1
+Vitamin D,Pain,38,Female,3,313,850,6.7,1
+Paracetamol,Diabetes,52,Male,1,214,500,9.0,1
+Cetirizine,Pain,19,Male,2,499,250,6.4,0
+Ibuprofen,Fever,44,Female,4,142,850,8.1,0
+Insulin,Allergy,19,Male,1,419,100,6.2,0
+Cetirizine,Pain,52,Male,5,471,250,8.0,0
+Paracetamol,Pain,35,Male,2,123,250,7.0,1
+Vitamin D,Fever,31,Male,1,481,100,8.4,0
+Metformin,Pain,37,Male,2,415,850,6.1,0
+Paracetamol,Pain,35,Female,2,356,850,7.0,1
+Vitamin D,Fever,27,Male,3,161,250,7.2,0
+Ibuprofen,Diabetes,42,Female,2,336,250,6.1,0
+Paracetamol,Fever,19,Female,3,577,850,4.7,1
+Metformin,Diabetes,42,Male,4,546,850,4.5,0
+Vitamin D,Allergy,50,Female,3,575,500,4.1,0
+Vitamin D,Diabetes,53,Male,5,420,250,8.4,0
+Vitamin D,Diabetes,48,Female,1,329,250,5.2,0
+Ibuprofen,Allergy,31,Female,4,514,100,5.1,1
+Paracetamol,Diabetes,18,Male,4,575,500,7.7,0
+Ibuprofen,Fever,63,Male,5,128,850,5.6,1
+Insulin,Diabetes,33,Male,3,391,500,6.5,0
+Insulin,Allergy,63,Male,1,225,850,4.8,1
+Paracetamol,Fever,69,Male,3,62,850,8.8,1
+Ibuprofen,Allergy,20,Female,2,264,500,8.3,1
+Metformin,Allergy,52,Female,3,306,250,8.3,0
+Vitamin D,Pain,58,Female,4,374,850,6.0,0
+Vitamin D,Pain,23,Female,1,495,500,7.8,0
+Paracetamol,Allergy,42,Female,3,102,100,4.7,1
+Insulin,Allergy,30,Female,1,129,500,4.0,0
+Insulin,Allergy,51,Female,1,209,100,4.1,0
+Vitamin D,Pain,25,Male,2,270,850,6.9,0
+Paracetamol,Pain,38,Male,2,310,500,6.3,0
+Ibuprofen,Diabetes,51,Female,4,220,500,6.6,1
+Insulin,Diabetes,21,Female,5,345,100,4.0,1
+Ibuprofen,Allergy,42,Male,1,530,500,6.1,0
+Insulin,Fever,32,Male,5,428,500,7.6,0
+Insulin,Fever,21,Male,4,527,850,6.2,0
+Cetirizine,Pain,62,Male,1,91,500,7.7,1
+Insulin,Pain,29,Female,1,266,250,5.2,0
+Metformin,Pain,49,Male,5,585,100,8.1,1
+Paracetamol,Allergy,49,Female,3,363,500,6.9,1
+Paracetamol,Fever,45,Female,2,73,100,5.1,0
+Ibuprofen,Diabetes,30,Female,3,547,100,5.2,0
+Insulin,Allergy,48,Male,5,551,100,7.1,0
+Metformin,Diabetes,31,Male,2,577,500,8.1,1
+Ibuprofen,Diabetes,37,Female,3,212,500,6.1,1
+Cetirizine,Allergy,35,Female,2,77,100,5.3,0
+Ibuprofen,Diabetes,46,Female,1,456,250,8.3,1
+Ibuprofen,Fever,23,Male,3,130,100,7.3,0
+Insulin,Diabetes,49,Female,2,148,250,6.2,0
+Cetirizine,Fever,46,Male,2,345,100,6.4,1
+Ibuprofen,Fever,60,Female,2,27,850,5.0,1
+Metformin,Fever,19,Female,3,48,100,7.1,1
+Metformin,Pain,40,Female,4,131,100,5.8,1
+Paracetamol,Diabetes,36,Male,3,150,500,9.0,0
+Cetirizine,Allergy,48,Male,5,207,250,6.4,0
+Cetirizine,Allergy,68,Female,3,494,850,6.4,0
+Paracetamol,Diabetes,22,Male,2,383,250,6.8,1
+Ibuprofen,Pain,36,Female,1,223,850,8.6,0
+Cetirizine,Pain,51,Male,3,231,100,8.0,1
+Metformin,Fever,27,Male,3,295,500,6.3,1
+Metformin,Diabetes,42,Male,2,92,500,7.6,1
+Insulin,Diabetes,19,Female,1,262,250,6.9,0
+Cetirizine,Allergy,28,Male,1,121,500,6.5,1
+Ibuprofen,Diabetes,67,Male,5,190,250,5.0,1
+Paracetamol,Pain,48,Female,3,207,250,6.3,1
+Paracetamol,Diabetes,32,Female,1,460,850,5.2,1
+Ibuprofen,Allergy,26,Female,1,105,250,8.6,1
+Vitamin D,Fever,40,Female,4,495,850,5.7,1
+Insulin,Allergy,36,Male,4,71,500,8.8,1
+Paracetamol,Allergy,26,Male,1,130,250,6.7,1
+Cetirizine,Fever,52,Male,5,62,250,7.2,1
+Insulin,Allergy,38,Male,1,230,100,6.7,1
+Cetirizine,Allergy,26,Male,2,219,250,4.6,1
+Metformin,Diabetes,45,Female,3,45,250,5.9,1
+Insulin,Diabetes,63,Male,5,318,100,4.5,0
+Paracetamol,Fever,68,Male,2,96,100,7.1,0
+Insulin,Diabetes,24,Male,5,156,500,6.2,1
+Insulin,Diabetes,33,Female,2,39,250,7.9,1
+Insulin,Allergy,33,Female,3,459,500,5.1,1
+Vitamin D,Pain,50,Male,3,230,500,4.8,0
+Insulin,Diabetes,21,Female,4,570,100,6.0,0
+Cetirizine,Pain,21,Female,2,454,850,8.6,0
+Metformin,Diabetes,56,Female,4,226,500,7.6,1
+Ibuprofen,Diabetes,57,Female,2,458,850,6.1,1
+Insulin,Fever,34,Female,4,61,250,6.6,1
+Paracetamol,Fever,54,Female,3,430,100,4.4,1
+Insulin,Fever,56,Female,5,542,250,8.9,0
+Paracetamol,Pain,69,Male,4,446,250,7.3,1
+Cetirizine,Allergy,46,Male,2,294,100,5.4,0
+Paracetamol,Diabetes,69,Female,2,467,250,6.9,0
+Ibuprofen,Diabetes,53,Male,3,388,100,4.5,1
+Metformin,Diabetes,55,Male,2,239,850,8.8,0
+Paracetamol,Pain,56,Female,1,596,250,4.9,0
+Paracetamol,Fever,67,Male,5,251,100,7.2,0
+Metformin,Allergy,54,Female,4,347,500,5.2,0
+Ibuprofen,Pain,69,Female,5,462,250,7.6,1
+Insulin,Fever,52,Female,3,71,850,7.9,1
+Paracetamol,Pain,24,Male,4,395,100,7.4,0
+Metformin,Allergy,44,Male,4,282,250,7.1,1
+Cetirizine,Fever,45,Male,1,286,250,8.5,0
+Metformin,Pain,39,Male,3,378,250,4.4,1
+Cetirizine,Allergy,31,Female,2,336,850,5.7,1
+Ibuprofen,Diabetes,24,Female,1,343,100,5.2,1
+Insulin,Allergy,54,Male,1,582,500,8.9,1
+Metformin,Diabetes,39,Female,5,440,500,5.9,1
+Vitamin D,Pain,22,Female,5,65,500,7.7,0
+Paracetamol,Fever,19,Male,5,288,100,7.4,1
+Ibuprofen,Fever,44,Female,1,400,500,5.1,0
+Metformin,Pain,38,Male,2,137,850,5.2,0
+Paracetamol,Fever,55,Female,4,585,100,5.4,1
+Metformin,Fever,32,Male,5,135,250,6.1,0
+Cetirizine,Diabetes,38,Female,2,279,850,5.2,1
+Metformin,Pain,27,Female,3,94,250,4.1,0
+Vitamin D,Allergy,40,Male,5,499,500,8.4,0
+Metformin,Diabetes,56,Male,4,324,850,8.8,1
+Metformin,Pain,22,Male,3,26,100,5.7,1
+Vitamin D,Diabetes,18,Male,3,385,850,5.7,1
+Ibuprofen,Allergy,30,Female,4,542,250,4.0,1
+Metformin,Allergy,38,Female,5,367,100,7.4,0
+Vitamin D,Pain,43,Male,1,457,850,8.1,1
+Paracetamol,Allergy,67,Female,4,234,850,4.7,0
+Cetirizine,Diabetes,62,Male,4,448,850,4.8,0
+Cetirizine,Allergy,38,Male,4,517,850,8.0,0
+Metformin,Diabetes,35,Female,3,559,100,7.1,0
+Ibuprofen,Diabetes,54,Female,2,386,250,4.2,0
+Ibuprofen,Allergy,62,Male,1,332,850,7.1,0
+Paracetamol,Pain,49,Male,5,557,100,5.5,1
+Metformin,Fever,53,Male,5,73,250,5.8,0
+Cetirizine,Allergy,34,Female,2,560,850,7.8,0
+Ibuprofen,Diabetes,52,Female,4,486,250,8.1,0
+Metformin,Diabetes,66,Female,1,183,250,6.0,1
+Ibuprofen,Allergy,28,Female,5,353,100,8.7,1
+Vitamin D,Pain,38,Male,5,566,250,6.0,0
+Ibuprofen,Pain,69,Male,4,367,100,7.9,1
+Cetirizine,Diabetes,43,Male,2,292,850,6.4,0
+Insulin,Diabetes,21,Male,1,433,250,8.5,1
+Paracetamol,Pain,51,Male,2,519,250,8.5,0
+Paracetamol,Fever,69,Male,2,112,500,4.4,1
+Cetirizine,Allergy,65,Female,1,98,850,8.7,1
+Ibuprofen,Diabetes,35,Female,1,236,850,8.1,1
+Metformin,Diabetes,57,Male,5,377,500,8.0,0
+Ibuprofen,Pain,52,Male,5,526,500,5.0,0
+Cetirizine,Allergy,58,Female,1,578,100,8.0,0
+Paracetamol,Pain,46,Female,3,200,100,8.3,1
+Ibuprofen,Allergy,69,Female,5,595,250,5.4,1
+Paracetamol,Allergy,46,Female,3,265,250,8.8,0
+Metformin,Allergy,55,Male,1,263,250,4.2,1
+Paracetamol,Diabetes,59,Male,5,525,250,4.7,0
+Paracetamol,Fever,38,Male,2,441,100,6.7,0
+Insulin,Pain,59,Male,1,339,850,6.9,0
+Insulin,Fever,30,Male,4,106,250,7.2,0
+Vitamin D,Pain,66,Female,3,236,850,4.1,1
+Insulin,Allergy,58,Male,1,509,250,8.8,1
+Paracetamol,Diabetes,34,Female,1,538,500,4.2,1
+Cetirizine,Fever,26,Male,5,297,250,4.7,0
+Paracetamol,Diabetes,58,Male,5,188,250,4.1,1
+Cetirizine,Pain,18,Male,5,349,250,6.8,0
+Cetirizine,Diabetes,19,Male,4,460,100,8.7,0
+Insulin,Diabetes,65,Male,5,410,500,7.3,0
+Ibuprofen,Fever,46,Female,1,515,250,8.1,0
+Metformin,Allergy,50,Female,5,400,250,4.1,0
+Insulin,Diabetes,27,Female,2,325,850,6.7,0
+Insulin,Allergy,67,Male,5,532,500,6.3,1
+Ibuprofen,Pain,57,Male,4,207,250,6.5,1
+Metformin,Diabetes,38,Female,2,535,850,4.4,1
+Paracetamol,Fever,45,Male,1,446,850,7.4,1
+Vitamin D,Pain,28,Male,1,521,100,6.5,0
+Vitamin D,Pain,51,Female,3,279,850,7.8,0
+Paracetamol,Fever,25,Male,2,532,250,6.4,1
+Insulin,Diabetes,39,Female,3,90,100,4.7,1
+Metformin,Diabetes,25,Male,2,497,100,7.2,1
+Insulin,Pain,66,Female,2,197,250,4.9,1
+Cetirizine,Diabetes,32,Male,4,476,500,8.4,1
+Insulin,Allergy,34,Male,3,208,850,7.1,1
+Insulin,Fever,40,Female,4,310,100,4.8,1
+Paracetamol,Allergy,41,Male,2,539,500,8.8,1
+Paracetamol,Diabetes,62,Male,1,311,250,6.6,0
+Paracetamol,Pain,36,Female,2,302,850,4.4,0
+Vitamin D,Fever,22,Male,4,563,850,7.1,0
+Cetirizine,Diabetes,49,Female,3,396,100,5.3,0
+Paracetamol,Diabetes,61,Male,3,175,850,8.0,1
+Metformin,Pain,18,Male,4,527,850,8.1,0
+Vitamin D,Pain,40,Male,3,432,850,8.9,1
+Ibuprofen,Allergy,54,Male,5,547,850,6.5,0
+Metformin,Fever,25,Female,1,374,250,6.3,1
+Metformin,Fever,30,Male,1,578,500,7.8,1
+Paracetamol,Pain,25,Female,1,206,250,4.7,0
+Ibuprofen,Allergy,40,Male,3,50,250,6.7,0
+Ibuprofen,Fever,60,Male,3,279,100,6.7,1
+Vitamin D,Pain,18,Male,2,440,850,4.4,1
+Ibuprofen,Diabetes,62,Male,2,548,250,6.1,1
+Cetirizine,Fever,68,Female,1,570,850,8.3,0
+Paracetamol,Allergy,41,Female,5,323,250,8.3,0
+Ibuprofen,Allergy,52,Female,2,58,250,4.5,1
+Vitamin D,Allergy,41,Female,2,508,100,4.5,0
+Cetirizine,Diabetes,34,Male,3,561,500,5.3,1
+Insulin,Fever,22,Female,5,297,500,8.4,0
+Insulin,Fever,37,Female,1,222,250,4.6,0
+Cetirizine,Diabetes,38,Male,2,85,100,7.6,0
+Vitamin D,Fever,57,Male,5,127,850,4.5,0
+Cetirizine,Diabetes,48,Male,5,287,850,7.1,0
+Paracetamol,Diabetes,63,Male,1,241,250,5.8,1
+Paracetamol,Diabetes,53,Female,5,549,500,7.9,1
+Insulin,Allergy,28,Female,5,109,100,5.2,0
+Ibuprofen,Fever,69,Male,5,274,500,7.2,1
+Vitamin D,Diabetes,32,Male,2,474,850,5.2,1
+Insulin,Fever,36,Male,1,272,500,7.6,0
+Ibuprofen,Allergy,24,Female,5,276,850,8.4,1
+Ibuprofen,Diabetes,68,Female,5,402,100,4.6,0
+Paracetamol,Pain,45,Male,2,461,100,8.3,1
+Metformin,Allergy,68,Male,1,109,250,7.0,1
+Metformin,Pain,60,Female,3,409,250,4.6,1
+Cetirizine,Fever,22,Male,2,63,500,6.1,1
+Paracetamol,Fever,22,Male,1,38,100,4.8,1
+Ibuprofen,Allergy,47,Female,5,120,100,7.5,1
+Vitamin D,Fever,49,Male,1,376,250,7.8,1
+Metformin,Pain,25,Female,1,561,850,4.5,0
+Ibuprofen,Diabetes,27,Male,1,52,500,6.5,0
+Metformin,Diabetes,55,Male,3,248,500,8.1,0
+Metformin,Diabetes,64,Female,1,543,250,8.7,0
+Metformin,Allergy,49,Female,3,174,100,6.6,1
+Vitamin D,Fever,65,Male,5,442,250,8.8,1
+Paracetamol,Pain,45,Female,3,265,250,6.7,1
+Vitamin D,Fever,34,Male,5,424,250,6.0,0
+Insulin,Fever,48,Male,5,560,250,8.2,0
+Ibuprofen,Fever,25,Female,3,180,850,6.5,0
+Paracetamol,Diabetes,57,Male,2,136,850,6.4,1
+Paracetamol,Pain,42,Male,4,290,100,6.5,0
+Paracetamol,Pain,26,Female,1,506,250,8.2,1
+Paracetamol,Fever,19,Female,4,191,850,8.2,0
+Vitamin D,Diabetes,32,Male,1,293,100,6.0,1
+Paracetamol,Diabetes,67,Female,1,278,250,5.7,0
+Cetirizine,Pain,20,Female,5,154,500,6.5,1
+Ibuprofen,Diabetes,66,Female,1,441,850,6.9,0
+Paracetamol,Diabetes,53,Female,1,440,100,5.2,0
+Ibuprofen,Diabetes,21,Male,3,205,500,8.0,1
+Cetirizine,Allergy,31,Male,4,383,250,6.4,1
+Cetirizine,Fever,58,Male,3,397,250,5.7,0
+Ibuprofen,Pain,58,Female,1,542,250,4.5,1
+Metformin,Pain,42,Female,5,599,850,5.2,0
+Insulin,Allergy,67,Female,3,215,100,8.7,1
+Metformin,Fever,27,Female,3,117,500,5.5,0
+Metformin,Pain,38,Female,2,41,100,4.8,1
+Vitamin D,Diabetes,53,Female,1,469,850,6.3,0
+Metformin,Pain,29,Female,5,191,100,5.5,0
+Paracetamol,Diabetes,44,Male,3,402,850,4.2,0
+Vitamin D,Allergy,57,Male,3,153,250,5.6,1
+Vitamin D,Diabetes,19,Female,5,445,500,6.7,0
+Cetirizine,Pain,30,Female,1,44,250,6.8,1
+Metformin,Pain,49,Female,2,522,100,5.8,1
+Cetirizine,Pain,48,Male,3,204,250,6.2,1
+Ibuprofen,Allergy,33,Male,2,104,500,8.8,0
+Insulin,Allergy,49,Female,4,586,250,5.9,1
+Vitamin D,Fever,49,Female,1,163,500,5.3,1
+Ibuprofen,Pain,51,Male,4,431,500,5.2,1
+Ibuprofen,Diabetes,28,Male,4,243,250,6.3,0
+Paracetamol,Allergy,27,Male,4,239,850,7.8,1
+Insulin,Pain,32,Male,1,198,100,5.0,1
+Ibuprofen,Pain,34,Female,1,452,850,7.5,1
+Ibuprofen,Allergy,57,Male,5,284,850,4.1,1
+Insulin,Fever,35,Male,2,448,250,6.1,0
+Insulin,Allergy,26,Female,2,435,100,7.9,0
+Ibuprofen,Allergy,42,Male,5,472,100,5.7,1
+Insulin,Diabetes,57,Male,5,216,850,6.8,1
+Ibuprofen,Diabetes,31,Male,4,573,250,5.0,1
+Ibuprofen,Fever,42,Female,5,72,100,7.7,1
+Paracetamol,Pain,67,Male,3,499,850,4.3,0
+Metformin,Allergy,39,Female,2,462,100,8.3,0
+Ibuprofen,Fever,69,Female,5,349,250,5.0,0
+Cetirizine,Diabetes,47,Male,3,270,250,8.4,0
+Vitamin D,Allergy,37,Male,3,142,250,5.8,1
+Metformin,Pain,38,Male,3,406,100,7.6,1
+Metformin,Diabetes,61,Male,3,358,500,5.6,0
+Metformin,Diabetes,49,Female,4,367,100,8.5,0
+Paracetamol,Diabetes,68,Male,3,48,500,4.6,1
+Ibuprofen,Fever,63,Male,4,54,250,4.9,1
+Paracetamol,Pain,66,Male,4,537,850,6.5,1
+Ibuprofen,Allergy,38,Female,3,415,500,4.4,1
+Paracetamol,Fever,52,Male,2,313,250,5.0,1
+Paracetamol,Fever,49,Male,3,368,250,8.7,0
+Vitamin D,Fever,47,Female,3,166,500,8.9,0
+Cetirizine,Diabetes,56,Female,3,86,850,5.9,1
+Paracetamol,Pain,66,Male,2,539,250,8.6,1
+Vitamin D,Fever,29,Male,1,141,500,6.7,0
+Insulin,Allergy,58,Male,1,359,850,5.3,1
+Cetirizine,Pain,64,Male,4,194,850,7.5,0
+Paracetamol,Allergy,35,Male,4,470,250,7.3,0
+Metformin,Pain,38,Female,2,576,100,8.9,0
+Insulin,Allergy,30,Female,5,155,100,5.3,0
+Insulin,Diabetes,38,Male,1,35,250,7.4,1
+Vitamin D,Fever,25,Male,4,352,850,4.3,1
+Insulin,Allergy,63,Female,1,214,250,4.6,0
+Cetirizine,Pain,57,Male,2,515,500,4.0,1
+Paracetamol,Fever,63,Male,2,28,100,9.0,1
+Paracetamol,Fever,24,Male,5,353,500,8.0,1
+Metformin,Pain,40,Male,5,352,250,7.9,1
+Vitamin D,Allergy,61,Male,2,346,250,6.5,0
+Metformin,Diabetes,49,Female,4,34,850,5.5,1
+Insulin,Diabetes,28,Male,1,245,850,4.8,0
+Metformin,Allergy,39,Male,3,444,850,5.4,0
+Cetirizine,Fever,39,Male,5,427,500,5.9,1
+Paracetamol,Fever,60,Female,3,132,850,7.8,0
+Insulin,Fever,42,Female,4,447,250,6.7,1
+Metformin,Fever,39,Female,5,20,850,4.4,1
+Vitamin D,Allergy,45,Female,3,285,100,4.1,0
+Cetirizine,Fever,46,Male,4,510,850,4.5,1
+Cetirizine,Pain,30,Female,1,227,500,6.1,0
+Metformin,Fever,35,Male,4,388,100,8.7,0
+Paracetamol,Diabetes,19,Male,5,325,100,7.2,1
+Metformin,Fever,46,Female,2,31,100,8.0,1
+Insulin,Allergy,38,Female,1,364,500,6.3,1
+Metformin,Diabetes,32,Female,3,484,250,5.8,0
+Cetirizine,Allergy,69,Female,5,513,850,4.5,1
+Metformin,Allergy,44,Female,2,387,100,8.4,0
+Paracetamol,Diabetes,67,Male,4,439,100,7.9,0
+Vitamin D,Allergy,48,Female,2,190,100,4.8,1
+Ibuprofen,Allergy,32,Female,5,153,250,6.6,1
+Metformin,Fever,68,Female,5,446,250,6.4,1
+Paracetamol,Pain,40,Male,2,44,500,7.1,0
+Paracetamol,Allergy,41,Female,4,549,250,8.7,1
+Vitamin D,Allergy,61,Male,2,209,850,6.9,0
+Cetirizine,Allergy,30,Female,5,160,500,6.7,1
+Paracetamol,Fever,39,Female,5,574,500,4.3,1
+Paracetamol,Pain,60,Male,3,334,850,4.3,0
+Paracetamol,Diabetes,54,Female,3,463,850,4.9,0
+Paracetamol,Fever,50,Male,1,338,850,4.2,1
+Insulin,Fever,20,Male,5,460,500,7.7,1
+Insulin,Pain,36,Male,3,111,500,7.6,1
+Cetirizine,Pain,40,Female,2,198,500,4.7,1
+Metformin,Fever,46,Female,4,75,850,8.2,1
+Paracetamol,Diabetes,47,Female,2,174,850,4.8,0
+Vitamin D,Fever,56,Male,4,130,100,5.5,0
+Metformin,Pain,61,Female,3,156,250,5.2,0
+Vitamin D,Diabetes,64,Male,1,251,100,5.9,0
+Metformin,Pain,42,Female,2,487,850,5.3,1
+Cetirizine,Diabetes,54,Male,2,500,500,6.4,0
+Paracetamol,Allergy,64,Male,2,87,850,6.0,0
+Paracetamol,Pain,25,Male,4,268,250,8.9,0
+Ibuprofen,Pain,59,Female,3,342,100,4.3,1
+Vitamin D,Fever,33,Male,2,537,100,4.7,0
+Metformin,Pain,25,Male,2,451,500,4.3,1
+Metformin,Pain,18,Male,1,506,100,7.1,0
+Insulin,Allergy,61,Male,1,448,100,4.3,1
+Ibuprofen,Pain,22,Male,3,288,850,8.2,0
+Insulin,Allergy,20,Male,3,556,100,6.6,1
+Insulin,Allergy,18,Female,5,167,100,6.6,0
+Insulin,Allergy,21,Female,1,137,100,6.8,1
+Vitamin D,Allergy,57,Male,5,386,500,4.9,1
+Vitamin D,Diabetes,52,Female,4,85,500,5.0,0
+Cetirizine,Fever,49,Female,5,389,850,5.6,1
+Cetirizine,Diabetes,59,Male,2,194,100,7.0,1
+Insulin,Pain,51,Male,5,514,500,5.1,0
+Ibuprofen,Diabetes,60,Male,3,133,500,4.6,0
+Metformin,Diabetes,42,Female,4,130,850,8.9,1
+Vitamin D,Pain,27,Male,2,458,250,4.1,0
+Ibuprofen,Pain,38,Female,5,166,100,8.0,0
+Paracetamol,Pain,63,Male,4,54,500,7.9,0
+Vitamin D,Diabetes,56,Female,4,328,850,5.5,1
+Vitamin D,Diabetes,44,Male,2,557,850,4.7,1
+Cetirizine,Pain,44,Male,5,33,850,4.7,1
+Metformin,Fever,19,Female,4,393,500,7.5,1
+Metformin,Fever,58,Female,4,576,100,7.2,1
+Paracetamol,Allergy,65,Female,1,447,250,7.9,1
+Paracetamol,Pain,30,Female,4,252,100,8.7,1
+Vitamin D,Allergy,26,Female,1,582,850,7.5,0
+Insulin,Fever,69,Female,5,459,850,4.8,1
+Cetirizine,Allergy,53,Male,5,521,250,5.2,1
+Cetirizine,Pain,39,Female,5,294,100,8.2,0
+Vitamin D,Pain,59,Male,3,95,850,5.0,0
+Ibuprofen,Pain,43,Male,5,458,850,4.4,0
+Insulin,Diabetes,29,Female,4,308,100,7.5,1
+Vitamin D,Allergy,34,Male,2,559,850,6.0,0
+Insulin,Fever,31,Female,1,272,100,8.6,1
+Insulin,Fever,31,Female,3,145,850,7.3,1
+Insulin,Fever,51,Male,5,196,100,4.5,1
+Vitamin D,Diabetes,37,Male,5,56,250,8.7,0
+Cetirizine,Diabetes,28,Female,2,429,850,5.3,0
+Cetirizine,Pain,33,Female,2,146,250,5.7,1
+Insulin,Fever,68,Male,3,502,850,6.0,1
+Ibuprofen,Diabetes,48,Male,1,187,850,4.3,1
+Metformin,Pain,23,Male,5,313,500,6.5,0
+Vitamin D,Fever,36,Male,3,362,100,4.6,1
+Metformin,Allergy,54,Female,4,329,250,6.0,0
+Ibuprofen,Pain,21,Female,4,547,250,5.8,1
+Vitamin D,Diabetes,64,Female,3,559,250,7.9,0
+Insulin,Diabetes,21,Female,5,438,100,8.0,1
+Cetirizine,Pain,37,Male,3,463,500,4.8,0
+Metformin,Pain,27,Male,5,577,250,5.8,0
+Paracetamol,Diabetes,41,Female,2,255,100,5.9,0
+Paracetamol,Allergy,52,Female,3,458,850,4.8,0
+Ibuprofen,Fever,43,Female,5,233,250,8.0,0
+Insulin,Allergy,54,Female,3,104,250,7.5,0
+Metformin,Pain,55,Female,3,104,500,5.0,1
+Insulin,Allergy,38,Female,5,508,250,5.8,1
+Metformin,Diabetes,57,Female,5,84,250,4.5,1
+Ibuprofen,Pain,56,Female,1,83,850,7.1,1
+Ibuprofen,Fever,38,Female,3,362,100,4.6,0
+Paracetamol,Diabetes,27,Male,4,371,100,8.9,1
+Insulin,Diabetes,55,Female,3,177,500,7.9,0
+Vitamin D,Fever,63,Male,3,510,850,6.0,0
+Paracetamol,Fever,21,Male,5,482,100,6.9,0
+Insulin,Allergy,62,Female,3,244,850,8.6,1
+Paracetamol,Pain,37,Female,3,332,100,6.8,0
+Vitamin D,Fever,34,Male,4,485,850,4.9,1
+Cetirizine,Fever,24,Male,5,107,500,5.9,1
+Cetirizine,Pain,21,Female,3,322,250,8.2,1
+Cetirizine,Fever,46,Male,2,454,500,7.2,1
+Cetirizine,Fever,31,Female,1,154,100,7.3,1
+Metformin,Allergy,20,Female,4,69,500,8.3,0
+Cetirizine,Diabetes,41,Female,3,451,250,8.5,0
+Vitamin D,Diabetes,54,Male,2,359,500,8.6,1
+Ibuprofen,Diabetes,33,Male,3,366,100,4.5,0
+Ibuprofen,Diabetes,69,Female,3,366,100,6.7,1
+Metformin,Fever,21,Male,5,264,500,7.7,0
+Cetirizine,Pain,41,Male,5,128,250,7.8,0
+Cetirizine,Pain,51,Male,5,552,500,7.0,0
+Cetirizine,Allergy,47,Male,2,109,250,4.8,0
+Paracetamol,Allergy,35,Male,3,315,850,8.0,0
+Insulin,Fever,36,Male,1,131,250,7.6,0
+Paracetamol,Pain,48,Male,4,196,850,4.4,0
+Insulin,Pain,36,Female,5,362,500,6.3,0
+Cetirizine,Diabetes,66,Male,5,120,250,4.9,0
+Cetirizine,Fever,63,Male,3,420,850,5.7,0
+Paracetamol,Fever,36,Male,3,47,850,4.1,0
+Paracetamol,Diabetes,39,Male,2,556,850,6.0,0
+Insulin,Fever,41,Male,2,77,100,6.7,0
+Ibuprofen,Fever,62,Male,5,517,500,7.1,1
+Insulin,Allergy,29,Male,3,316,850,7.3,0
+Paracetamol,Pain,47,Male,1,153,250,8.2,0
+Vitamin D,Fever,55,Female,4,350,850,5.1,0
+Paracetamol,Allergy,48,Male,3,268,100,4.6,0
+Vitamin D,Pain,53,Male,3,569,500,8.3,0
+Metformin,Diabetes,36,Male,2,94,100,4.8,0
+Paracetamol,Allergy,65,Male,4,187,100,8.9,1
+Metformin,Allergy,62,Female,5,522,100,8.2,1
+Ibuprofen,Pain,53,Female,3,374,250,6.5,1
+Insulin,Diabetes,47,Female,5,244,500,8.9,0
+Vitamin D,Allergy,66,Female,3,550,500,4.5,0
+Insulin,Fever,50,Female,5,165,250,5.5,0
+Metformin,Fever,35,Female,4,260,500,7.2,1
+Vitamin D,Fever,69,Female,2,363,100,5.8,0
+Insulin,Diabetes,66,Female,4,54,500,8.6,0
+Paracetamol,Allergy,45,Female,1,20,250,4.3,1
+Cetirizine,Fever,64,Female,2,172,100,6.7,1
+Metformin,Diabetes,28,Female,4,448,250,7.0,0
+Insulin,Fever,62,Female,1,527,850,7.3,0
+Metformin,Pain,50,Female,3,145,100,5.3,0
+Metformin,Allergy,34,Female,3,510,100,5.8,0
+Vitamin D,Allergy,23,Female,5,501,500,8.2,1
+Vitamin D,Diabetes,21,Female,2,364,100,5.0,0
+Cetirizine,Diabetes,37,Male,3,240,250,8.1,0
+Paracetamol,Allergy,65,Female,2,44,500,6.8,1
+Metformin,Fever,64,Male,3,547,850,7.8,0
+Insulin,Fever,44,Female,5,201,250,7.6,0
+Ibuprofen,Pain,32,Female,4,518,850,5.0,1
+Metformin,Fever,23,Male,5,61,850,6.8,1
+Metformin,Diabetes,64,Female,1,500,850,8.3,0
+Cetirizine,Diabetes,31,Male,3,458,100,6.2,1
+Paracetamol,Fever,28,Male,1,421,250,8.8,1
+Ibuprofen,Diabetes,56,Male,1,565,250,6.3,0
+Vitamin D,Allergy,26,Female,2,364,100,4.7,1
+Vitamin D,Allergy,43,Female,3,64,500,5.9,0
+Insulin,Fever,33,Female,1,40,850,8.8,0
+Ibuprofen,Allergy,22,Male,4,89,250,5.6,0
+Vitamin D,Allergy,69,Male,1,67,100,8.3,0
+Insulin,Pain,27,Female,4,510,850,8.4,1
+Paracetamol,Pain,67,Female,2,570,500,5.8,0
+Insulin,Allergy,20,Female,1,306,500,4.4,0
+Vitamin D,Fever,30,Female,5,29,850,7.6,0
+Cetirizine,Pain,60,Female,2,561,500,5.6,0
+Cetirizine,Diabetes,66,Male,4,293,250,7.9,1
+Cetirizine,Diabetes,47,Male,2,400,250,6.2,1
+Vitamin D,Diabetes,62,Male,1,348,250,6.4,1
+Cetirizine,Fever,23,Female,3,498,500,7.9,0
+Ibuprofen,Allergy,34,Male,3,34,250,5.9,1
+Paracetamol,Diabetes,62,Male,4,535,100,6.2,1
+Insulin,Fever,68,Male,4,210,250,5.9,0
+Insulin,Pain,36,Male,3,187,250,5.8,1
+Vitamin D,Allergy,59,Male,4,540,500,6.6,0
+Cetirizine,Pain,52,Female,2,156,250,8.0,1
+Cetirizine,Fever,63,Male,5,173,850,5.8,1
+Metformin,Diabetes,43,Female,5,407,100,6.6,1
+Paracetamol,Diabetes,68,Female,2,228,500,7.4,1
+Ibuprofen,Fever,22,Female,5,291,100,5.3,0
+Insulin,Diabetes,46,Female,1,162,850,5.4,0
+Metformin,Allergy,54,Female,2,88,500,8.7,1
+Metformin,Fever,37,Male,4,266,500,7.6,0
+Vitamin D,Pain,66,Male,2,280,250,6.9,1
+Insulin,Fever,38,Female,3,98,100,7.2,1
+Vitamin D,Allergy,27,Female,4,544,850,4.1,1
+Ibuprofen,Allergy,22,Female,3,349,850,7.1,1
+Metformin,Fever,53,Male,4,208,500,6.5,1
+Metformin,Fever,23,Female,5,114,250,6.7,1
+Paracetamol,Diabetes,43,Male,2,27,500,5.8,0
+Ibuprofen,Allergy,21,Female,1,86,500,4.4,0
+Metformin,Fever,56,Male,4,515,500,5.0,1
+Ibuprofen,Fever,56,Female,4,210,500,8.8,0
+Insulin,Allergy,67,Male,3,385,850,6.0,1
+Cetirizine,Fever,52,Female,5,540,850,6.3,0
+Metformin,Diabetes,18,Male,3,136,500,4.3,0
+Paracetamol,Allergy,41,Male,3,286,500,4.2,0
+Insulin,Diabetes,53,Male,5,504,250,7.6,1
+Ibuprofen,Diabetes,23,Male,1,528,500,6.7,0
+Vitamin D,Diabetes,58,Male,3,317,850,6.5,1
+Insulin,Diabetes,63,Male,3,183,100,5.2,1
+Metformin,Allergy,61,Male,4,395,850,7.7,1
+Ibuprofen,Diabetes,48,Female,5,287,250,4.8,0
+Cetirizine,Diabetes,37,Female,2,568,850,4.9,0
+Insulin,Fever,41,Female,1,93,100,6.3,0
+Metformin,Allergy,42,Female,1,527,500,5.4,1
+Paracetamol,Allergy,53,Female,5,92,100,5.2,1
+Vitamin D,Pain,38,Male,4,327,500,7.2,0
+Ibuprofen,Allergy,47,Male,4,218,500,7.3,1
+Insulin,Allergy,41,Male,5,149,850,8.1,0
+Insulin,Pain,61,Male,4,591,850,6.1,0
+Cetirizine,Allergy,59,Male,1,506,850,4.4,0
+Cetirizine,Allergy,47,Female,1,170,250,5.4,0
+Paracetamol,Allergy,39,Female,2,225,850,8.9,1
+Vitamin D,Allergy,45,Female,5,198,250,7.0,0
+Paracetamol,Pain,24,Female,3,216,850,7.5,0
+Metformin,Allergy,52,Male,3,108,500,4.0,0
+Metformin,Allergy,45,Male,2,453,250,6.6,0
+Paracetamol,Pain,31,Male,2,202,100,4.2,0
+Vitamin D,Fever,27,Female,4,228,250,6.8,0
+Paracetamol,Diabetes,33,Male,2,512,250,8.6,0
+Vitamin D,Fever,33,Female,2,149,100,8.8,1
+Vitamin D,Pain,48,Male,3,32,250,6.7,1
+Ibuprofen,Diabetes,59,Male,4,125,500,6.3,1
+Vitamin D,Pain,42,Female,2,394,850,8.7,1
+Cetirizine,Pain,30,Male,2,118,100,7.4,0
+Vitamin D,Allergy,23,Male,4,211,850,4.3,1
+Vitamin D,Diabetes,61,Female,5,344,500,6.3,1
+Vitamin D,Allergy,26,Male,4,486,100,5.2,1
+Metformin,Diabetes,62,Female,3,386,850,6.3,0
+Cetirizine,Pain,53,Male,5,337,850,6.3,1
+Cetirizine,Pain,60,Male,1,163,500,6.9,1
+Paracetamol,Fever,37,Male,4,403,850,5.8,0
+Ibuprofen,Diabetes,35,Male,3,235,500,4.8,1
+Vitamin D,Allergy,60,Male,5,380,250,6.5,0
+Insulin,Fever,38,Male,4,343,500,8.2,1
+Ibuprofen,Fever,21,Male,2,34,250,7.3,0
+Ibuprofen,Fever,67,Male,4,236,100,5.7,1
+Cetirizine,Allergy,50,Female,1,511,850,8.7,1
+Ibuprofen,Fever,44,Female,4,566,500,8.6,1
+Vitamin D,Allergy,24,Male,5,202,500,5.0,0
+Vitamin D,Fever,23,Male,5,289,850,4.2,1
+Metformin,Allergy,32,Female,4,486,850,7.7,0
+Vitamin D,Pain,35,Male,5,538,100,8.1,0
+Vitamin D,Pain,49,Male,2,561,100,8.8,0
+Cetirizine,Pain,28,Female,4,486,500,8.4,0
+Vitamin D,Pain,37,Male,2,324,100,7.0,1
+Metformin,Pain,41,Male,2,163,250,6.7,1
+Insulin,Fever,32,Female,3,130,100,4.1,1
+Cetirizine,Fever,65,Male,4,251,100,5.2,0
+Insulin,Fever,24,Male,5,519,500,6.3,1
+Cetirizine,Allergy,38,Female,2,573,250,7.1,0
+Paracetamol,Allergy,59,Male,3,292,100,6.8,0
+Ibuprofen,Allergy,43,Female,4,192,250,7.7,0
+Paracetamol,Allergy,61,Male,4,26,250,5.4,1
+Vitamin D,Pain,31,Male,1,174,250,6.8,1
+Insulin,Pain,54,Female,1,541,850,4.4,0
+Vitamin D,Pain,38,Female,2,565,850,6.1,1
+Ibuprofen,Diabetes,35,Male,1,567,850,7.8,1
+Cetirizine,Fever,22,Female,2,537,850,7.5,0
+Ibuprofen,Allergy,20,Female,5,234,500,9.0,0
+Metformin,Allergy,40,Male,2,153,100,5.4,1
+Ibuprofen,Pain,43,Male,1,304,850,6.5,0
+Metformin,Allergy,54,Male,5,145,500,5.6,0
+Ibuprofen,Allergy,41,Female,1,458,100,6.2,1
+Metformin,Fever,66,Female,2,171,850,8.3,1
+Insulin,Pain,36,Female,3,350,100,7.4,0
+Vitamin D,Fever,68,Female,4,557,850,8.4,1
+Vitamin D,Diabetes,42,Male,1,402,500,5.0,0
+Paracetamol,Diabetes,38,Female,2,134,250,8.4,0
+Vitamin D,Diabetes,29,Male,5,501,250,4.3,1
+Cetirizine,Pain,58,Female,1,303,100,8.4,0
+Ibuprofen,Allergy,50,Male,1,94,500,5.6,0
+Paracetamol,Pain,67,Male,4,185,250,5.6,0
+Cetirizine,Pain,21,Male,2,208,850,6.6,1
+Cetirizine,Allergy,59,Female,3,97,250,8.7,1
+Metformin,Fever,24,Male,5,40,100,4.2,1
+Vitamin D,Diabetes,39,Male,2,585,100,5.8,0
+Insulin,Fever,50,Female,5,203,500,8.3,0
+Insulin,Diabetes,34,Male,1,241,100,6.0,1
+Paracetamol,Pain,41,Female,4,347,250,5.0,1
+Insulin,Diabetes,51,Female,4,198,250,6.1,1
+Ibuprofen,Pain,45,Male,3,131,250,5.9,0
+Insulin,Fever,60,Male,4,78,250,8.6,1
+Paracetamol,Pain,58,Female,1,346,500,7.8,0
+Insulin,Fever,56,Male,3,210,850,6.5,1
+Ibuprofen,Allergy,39,Female,2,219,850,8.9,0
+Metformin,Allergy,66,Female,4,331,500,6.3,0
+Paracetamol,Allergy,34,Female,3,54,100,4.3,1
+Metformin,Pain,51,Male,1,398,850,5.3,0
+Metformin,Allergy,23,Female,5,406,100,6.2,1
+Metformin,Diabetes,63,Male,5,256,850,4.8,0
+Cetirizine,Fever,23,Male,1,538,100,8.7,0
+Vitamin D,Fever,51,Male,1,302,500,7.8,1
+Cetirizine,Diabetes,18,Male,5,20,250,5.3,0
+Vitamin D,Pain,27,Female,3,483,100,7.0,1
+Metformin,Pain,38,Male,5,249,250,7.6,1
+Paracetamol,Fever,22,Female,1,191,100,8.7,1
+Vitamin D,Allergy,19,Female,4,106,100,8.4,0
+Ibuprofen,Pain,39,Male,2,572,100,6.6,0
+Ibuprofen,Pain,65,Female,4,142,100,7.9,0
+Insulin,Diabetes,19,Female,4,317,100,6.8,1
+Vitamin D,Diabetes,27,Male,1,594,250,6.8,1
+Paracetamol,Allergy,51,Female,5,503,100,4.6,0
+Cetirizine,Pain,33,Female,3,184,250,4.6,0
+Metformin,Pain,65,Female,4,402,500,6.6,1
+Insulin,Diabetes,68,Female,5,228,850,5.3,0
+Ibuprofen,Pain,56,Male,3,451,100,4.1,1
+Cetirizine,Fever,39,Female,4,408,850,7.6,0
+Cetirizine,Diabetes,29,Female,3,579,250,4.2,1
+Metformin,Allergy,41,Female,5,243,500,7.0,0
+Vitamin D,Diabetes,64,Female,2,22,500,6.7,0
+Ibuprofen,Pain,57,Male,5,391,500,8.8,1
+Paracetamol,Allergy,55,Female,1,465,850,6.4,1
+Cetirizine,Diabetes,27,Male,3,135,250,4.3,1
+Metformin,Fever,52,Female,2,289,100,6.8,0
+Paracetamol,Fever,68,Male,3,466,100,8.2,1
+Vitamin D,Diabetes,66,Male,3,387,250,9.0,1
+Ibuprofen,Fever,49,Male,4,272,850,6.2,0
+Vitamin D,Fever,24,Male,1,336,100,5.6,1
+Cetirizine,Fever,38,Male,3,434,250,8.5,1
+Paracetamol,Allergy,37,Female,5,114,100,5.0,1
+Paracetamol,Fever,43,Female,5,43,500,7.1,0
+Paracetamol,Fever,21,Female,4,69,100,6.0,0
+Cetirizine,Fever,63,Male,1,521,850,4.2,0
+Cetirizine,Allergy,69,Female,1,517,250,5.7,1
+Vitamin D,Diabetes,39,Male,5,354,850,5.3,0
+Insulin,Pain,32,Male,2,98,250,7.4,1
+Vitamin D,Fever,57,Female,4,46,500,8.7,1
+Ibuprofen,Diabetes,38,Female,4,290,250,5.3,1
+Metformin,Fever,32,Male,5,581,100,8.1,0
+Paracetamol,Allergy,39,Male,5,266,100,4.3,0
+Insulin,Diabetes,69,Female,2,406,500,6.7,1
+Metformin,Allergy,45,Female,2,578,250,4.4,1
+Insulin,Fever,31,Female,1,380,500,8.7,0
+Vitamin D,Fever,44,Female,4,507,100,7.8,0
+Cetirizine,Allergy,58,Male,4,371,850,7.3,0
+Paracetamol,Pain,57,Female,5,275,500,8.1,1
+Vitamin D,Allergy,45,Female,1,241,850,7.2,0
+Metformin,Fever,43,Female,4,20,850,8.8,0
+Metformin,Allergy,66,Male,1,565,250,7.6,0
+Metformin,Pain,19,Male,1,465,500,8.6,1
+Metformin,Allergy,42,Male,5,98,850,6.6,0
+Metformin,Pain,20,Male,1,255,850,4.6,1
+Insulin,Pain,25,Female,2,353,250,6.6,1
+Vitamin D,Allergy,61,Male,2,368,250,4.6,1
+Paracetamol,Allergy,50,Female,3,117,100,7.0,0
+Cetirizine,Diabetes,59,Female,5,101,850,6.4,0
+Cetirizine,Fever,69,Female,3,521,100,7.1,0
+Vitamin D,Pain,52,Female,2,496,850,4.1,1
+Vitamin D,Diabetes,23,Male,3,569,100,5.0,0
+Cetirizine,Allergy,56,Male,5,33,250,6.5,1
+Cetirizine,Fever,69,Male,5,411,500,8.8,0
+Insulin,Diabetes,40,Female,1,366,250,5.9,0
+Ibuprofen,Pain,42,Female,4,329,100,6.1,0
+Paracetamol,Diabetes,67,Female,1,405,100,7.6,0
+Metformin,Pain,60,Female,5,228,500,7.0,1
+Ibuprofen,Allergy,36,Female,2,376,850,5.5,1
+Vitamin D,Fever,22,Male,2,587,100,6.1,1
+Cetirizine,Fever,68,Female,1,113,100,5.1,1
+Ibuprofen,Fever,28,Male,5,112,100,8.8,0
+Paracetamol,Allergy,29,Female,2,359,500,4.7,1
+Vitamin D,Pain,27,Female,5,464,250,5.9,1
+Metformin,Allergy,25,Male,2,41,100,4.1,1
+Metformin,Fever,41,Male,5,310,500,5.1,0
+Paracetamol,Allergy,45,Female,3,504,100,7.9,1
+Paracetamol,Allergy,58,Female,5,325,850,5.0,1
+Cetirizine,Allergy,53,Female,5,147,500,4.4,0
+Metformin,Pain,54,Female,1,292,100,6.4,0
+Vitamin D,Diabetes,38,Male,3,461,500,4.0,1
+Ibuprofen,Diabetes,25,Female,4,522,100,4.4,1
+Vitamin D,Allergy,26,Male,1,149,250,8.0,0
+Insulin,Diabetes,64,Female,4,151,100,7.9,1
+Insulin,Diabetes,32,Male,2,501,500,8.6,0
+Paracetamol,Allergy,65,Male,4,409,850,8.3,1
+Cetirizine,Allergy,63,Female,5,344,850,7.4,1
+Insulin,Fever,57,Male,4,88,850,4.3,1
+Metformin,Diabetes,35,Female,1,467,100,7.9,1
+Vitamin D,Pain,59,Male,1,547,250,8.2,1
+Vitamin D,Allergy,37,Female,4,184,100,8.0,0
+Paracetamol,Fever,23,Male,1,507,850,6.5,0
+Ibuprofen,Pain,29,Female,1,445,500,5.2,1
+Paracetamol,Diabetes,19,Female,4,284,850,8.2,1
+Ibuprofen,Fever,24,Male,3,361,500,7.6,1
+Paracetamol,Allergy,33,Male,3,297,250,8.9,0
+Paracetamol,Pain,20,Male,2,458,500,4.8,0
+Paracetamol,Allergy,62,Male,1,176,100,5.1,0
+Ibuprofen,Diabetes,20,Female,4,441,100,5.1,0
+Ibuprofen,Pain,44,Male,1,270,100,8.0,0
+Paracetamol,Diabetes,67,Female,5,549,500,4.9,0
+Insulin,Diabetes,60,Male,1,346,100,4.3,0
+Cetirizine,Fever,57,Female,1,116,100,9.0,0
+Cetirizine,Allergy,55,Female,3,532,100,4.1,1
+Cetirizine,Pain,50,Female,4,235,250,8.2,0
+Ibuprofen,Diabetes,45,Female,1,151,500,5.8,0
+Ibuprofen,Diabetes,18,Male,3,279,500,8.2,0
+Insulin,Pain,25,Male,2,144,850,6.8,0
+Cetirizine,Diabetes,54,Female,3,101,500,8.5,1
+Cetirizine,Fever,49,Male,3,302,250,8.6,0
+Paracetamol,Fever,65,Male,3,78,500,4.0,1
+Ibuprofen,Fever,60,Female,1,563,250,4.4,1
+Cetirizine,Fever,54,Male,1,180,250,5.3,1
+Vitamin D,Diabetes,21,Male,2,303,500,7.3,0
+Insulin,Pain,47,Male,5,125,850,8.4,0
+Vitamin D,Pain,23,Female,5,124,100,6.3,0
+Vitamin D,Pain,63,Male,5,458,100,7.0,1
+Insulin,Pain,36,Female,2,247,500,4.9,1
+Vitamin D,Allergy,49,Male,5,337,500,8.0,1
+Cetirizine,Pain,26,Male,5,483,250,8.8,1
+Ibuprofen,Allergy,29,Male,3,491,500,5.3,0
+Insulin,Allergy,28,Female,1,75,250,6.5,0
+Paracetamol,Fever,63,Female,1,32,850,4.4,0
+Vitamin D,Allergy,33,Male,3,459,500,6.8,1
+Insulin,Diabetes,18,Female,3,37,100,6.5,1
+Metformin,Allergy,62,Male,3,132,100,4.7,0
+Metformin,Fever,38,Female,1,248,500,6.2,0
+Ibuprofen,Allergy,47,Female,5,190,250,5.7,1
+Cetirizine,Diabetes,30,Male,3,314,100,6.6,0
+Ibuprofen,Diabetes,51,Male,2,208,250,6.9,0
